@@ -4,3 +4,4 @@ Features:
 - Shift disable
 - Click recorder
 - Click player
+- Disable in Inventory
